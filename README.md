@@ -1,8 +1,8 @@
- 👋 مرحباً — أنا نورين
+# 👋 Hi — I'm Nourin
 
-أنا نورين، طالبة برمجة أتعلم وأتطوّر في التطوير والبرمجة. فيما يلي اللغات والأدوات التي أعمل بها حالياً:
+I'm Nourin, a programming student learning and growing in software development. Below are the languages and tools I currently work with:
 
-### اللغات والأدوات
+### Languages & Tools
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -12,4 +12,3 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
-
